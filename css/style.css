@@ -1,0 +1,208 @@
+div{
+    background-color: #E4F5F9;
+}
+
+body{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif; 
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: rgb(88, 168, 131);
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+.icon{
+    width: 2px;
+    height: 2px;
+}
+
+.below_cloud{
+    position: absolute;
+}
+
+.top_cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.weather{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 250px;
+    top: 50px;
+}
+
+.airplane{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 20%;
+    top: 100px;
+}
+
+.airplane_mod{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+}
+
+.box1{
+    padding-top: 150px;
+}
+
+.myprofilepic{
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    padding-top: 40px;
+}
+
+.prog{
+    font-size: 40px;
+    margin-top: -18px;
+    color: rgb(88, 168, 131);
+}
+
+.Hello{
+    width: 120px;
+    height: 30px;
+    background-color: #E4F5F9;
+
+}
+
+.coding{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+}
+
+.DSA{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+}
+
+.ML{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.Hack{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+}
+
+.Python{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 60px auto 60px auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+
+.profile{
+    width: 50%;
+    margin: auto;
+}
+
+.middle-container{
+    padding-top: 60px;
+}
+
+.mys{
+    font-size: 32px;
+}
+
+hr{
+    border: dotted rgb(168, 196, 182) 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 80px auto;
+}
+
+.contact-me{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+/* button Generator code */
+.btn {
+    background: #3bcc78;
+    background-image: -webkit-linear-gradient(top, #3bcc78, #428a3c);
+    background-image: -moz-linear-gradient(top, #3bcc78, #428a3c);
+    background-image: -ms-linear-gradient(top, #3bcc78, #428a3c);
+    background-image: -o-linear-gradient(top, #3bcc78, #428a3c);
+    background-image: linear-gradient(to bottom, #3bcc78, #428a3c);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #4db832;
+    text-decoration: none;
+}
+
+.bottom-container{
+      padding-top: 60px;
+      padding-bottom: 60px;
+      background-color: black;
+
+}
+
+.bottom-container p{
+      color: white;
+}
+
+.footer-link{
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+}
+
+.footer-link:hover{
+    text-decoration: none;
+    color: #3bcc78;
+}
+
+.copyright:hover{
+    color: #3bcc78;
+}
+
+  
